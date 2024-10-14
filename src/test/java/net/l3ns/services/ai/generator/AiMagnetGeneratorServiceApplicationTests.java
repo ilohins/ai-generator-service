@@ -1,4 +1,4 @@
-package net.l3ns.ai_magnet_generator_service;
+package net.l3ns.services.ai.generator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

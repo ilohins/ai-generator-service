@@ -1,13 +1,13 @@
-package net.l3ns.ai_magnet_generator_service;
+package net.l3ns.services.ai.generator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AiMagnetGeneratorServiceApplication {
+public class AiGeneratorServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AiMagnetGeneratorServiceApplication.class, args);
+		SpringApplication.run(AiGeneratorServiceApplication.class, args);
 	}
 
 }
