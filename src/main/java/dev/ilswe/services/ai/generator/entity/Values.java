@@ -1,4 +1,4 @@
-package net.l3ns.services.ai.generator.entity;
+package dev.ilswe.services.ai.generator.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

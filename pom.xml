@@ -8,8 +8,8 @@
 		<version>3.3.5-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.l3ns</groupId>
-	<artifactId>ai-magnet-generator-service</artifactId>
+	<groupId>dev.ilswe</groupId>
+	<artifactId>ai-generator-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ai-magnet-generator-service</name>
 	<description>replace later</description>

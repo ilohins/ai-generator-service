@@ -1,4 +1,4 @@
-package net.l3ns.services.ai.generator.ai;
+package dev.ilswe.services.ai.generator.ai;
 
 public interface IAIGeneratorService<T> {
     public T generate(Integer recordNumber);

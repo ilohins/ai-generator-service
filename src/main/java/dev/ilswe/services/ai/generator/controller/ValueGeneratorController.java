@@ -1,7 +1,7 @@
-package net.l3ns.services.ai.generator.controller;
+package dev.ilswe.services.ai.generator.controller;
 
-import net.l3ns.services.ai.generator.ai.IAIGeneratorService;
-import net.l3ns.services.ai.generator.entity.Values;
+import dev.ilswe.services.ai.generator.ai.IAIGeneratorService;
+import dev.ilswe.services.ai.generator.entity.Values;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;

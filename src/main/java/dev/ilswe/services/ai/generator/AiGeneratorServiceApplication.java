@@ -1,4 +1,4 @@
-package net.l3ns.services.ai.generator;
+package dev.ilswe.services.ai.generator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
