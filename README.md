@@ -1,4 +1,4 @@
-# ai-magnet-generator-service
+# ai-generator-service
 This project is designed to utilize AI to generate a meaningful test data for any of your applications.
 
 # Frameworks
