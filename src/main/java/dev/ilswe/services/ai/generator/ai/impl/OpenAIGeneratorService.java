@@ -63,7 +63,7 @@ public class OpenAIGeneratorService implements IAIGeneratorService<Values> {
         Prompt prompt = new Prompt(testPrompt,
                 OpenAiChatOptions.builder()
                         .withModel(OpenAiApi.ChatModel.GPT_4_O_MINI)
-                        .withTemperature(0.75)
+                        .withTemperature(0.95)
                         .build());
 
         ChatResponse response = this.chatModel.call(prompt);

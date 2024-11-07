@@ -26,9 +26,9 @@ public class ValueGeneratorController {
         log.info("Initializing controller");
 
         this.aiService = aiService;
-        String content = aiService.testService();
+        String testResponse = aiService.testService();
 
-        log.info("Application startup joke (AI API Connection Test): {}", content);
+        log.info("Application startup joke (AI API Connection Test): \n{}", testResponse);
     }
 
     @PostMapping(value = "/generate/{number}", produces = "application/json")
